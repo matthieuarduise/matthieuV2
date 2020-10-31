@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/banner.css");
+@import url("components/button.css");
+
+
+body {
+  font-family: 'Lora', serif;
+  font-size: 18px;
+  margin: 0px;
+  line-height: 15%;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  line-height: 30px;
+}
+
+h4 {
+	color: red;
+	font-family: 'Lora';
+	font-weight: bold;
+}
+
+
+.p1 {
+	font-family: 'Roboto', serif;
+  	font-weight: bold;
+  	color: #af2d2d;
+	line-height: 30px;
+}
+
+p {
+	line-height: 25px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  line-height: 60px;
+}
+
+
+ul {
+	color: #214252;
+	font-family: 'Roboto';
+	font-weight: bold;
+	line-height: 25px;
+
+}
+
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  margin: 20px 0px;
+}
+
+.btn-button {
+  text-align: center;
+}
+
+
+
+
+
+
+
